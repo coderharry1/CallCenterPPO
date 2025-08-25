@@ -123,10 +123,6 @@ python CallCenterPPO.ipynb
 
 ---
 
-## 🎯 Role Relevance Statement  
-
-This project proves I can combine **SQL, Python, and Machine Learning** to deliver measurable business impact — the same skills I’ll bring to a **Data Analyst / BI Analyst role**.  
-
 ## 📌 Future Directions  
 
 - Add **customer segmentation** for personalised routing  
@@ -142,3 +138,7 @@ Special thanks to Dr. Wathsala Karunarathne for her guidance in reinforcement le
 
 ## 🔗 Links  
 👉 Explore the full code + training logs here: [CallCenterPPO.ipynb](https://github.com/coderharry1/CallCenterPPO/blob/main/CallCenterPPO.ipynb)
+
+## 🎯 Role Relevance Statement  
+
+This project proves I can combine **SQL, Python, and Machine Learning** to deliver measurable business impact — the same skills I’ll bring to a **Data Analyst / BI Analyst role**.  
