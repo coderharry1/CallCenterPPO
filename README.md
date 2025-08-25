@@ -137,7 +137,7 @@ This project proves I can combine **SQL, Python, and Machine Learning** to deliv
 
 ## 🙏 Acknowledgements  
 
-Special thanks to Dr. Wathsala Karunarathne for her guidance in reinforcement learning and optimisation, and to the University of Adelaide’s **School of Mathematical Sciences** for academic support.  
+Special thanks to Dr. Wathsala Karunarathne for her guidance in reinforcement learning and optimisation, and to the University of Adelaide’s School of Mathematical Sciences for academic support.  
 ---
 
 ## 🔗 Links  
