@@ -93,17 +93,10 @@ This project builds a **Reinforcement Learning (RL)**-based solution using **Pro
 
 ## 📂 Repository Structure  
 
-```
-├── CallCenterPPO.ipynb      # Full training + evaluation notebook
-├── environment.py           # Custom OpenAI Gym call centre environment
-├── data/
-│   └── ModifiedCallCenter.xlsx   # Call centre dataset
-├── results/
-│   ├── training_rewards.png
-│   ├── wait_time_reduction.png
-│   └── agent_heatmap.png
-└── README.md                # This file
-```
+├── CallCenterPPO.ipynb   # End-to-end training + evaluation  
+├── environment.py        # Custom OpenAI Gym call centre environment  
+├── results/              # Visualisations + evaluation plots  
+└── README.md             # Project overview  
 
 ---
 
@@ -141,4 +134,4 @@ Special thanks to Dr. Wathsala Karunarathne for her guidance in reinforcement le
 
 ## 🎯 Role Relevance Statement  
 
-This project proves I can combine **SQL, Python, and Machine Learning** to deliver measurable business impact — the same skills I’ll bring to a **Data Analyst / BI Analyst role**.  
+This project proves I can combine **SQL, Python, and Machine Learning** to deliver measurable business impact — the same skills I’ll bring to a **Data Analyst / BI Analyst role**. 
