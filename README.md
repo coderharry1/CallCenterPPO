@@ -75,10 +75,12 @@ This project builds a **Reinforcement Learning (RL)**-based solution using **Pro
 
 ---
 ## 📈 Key Visuals  
-![Wait Time Reduction](<img width="347" height="185" alt="Screenshot 2025-08-25 at 11 41 55 AM" src="https://github.com/user-attachments/assets/afeae65d-8016-4894-92dd-ece1955dad53" />
-)  
-![Agent Satisfaction Heatmap](<img width="317" height="213" alt="Screenshot 2025-08-25 at 11 44 35 AM" src="https://github.com/user-attachments/assets/8a607289-1a9a-47bd-9f1e-10142ef68842" />
-)  
+
+**Customer Wait Time Reduction**  
+![Wait Time Reduction](https://github.com/user-attachments/assets/afeae65d-8016-4894-92dd-ece1955dad53)  
+
+**Agent Satisfaction by Topic**  
+![Agent Satisfaction Heatmap](https://github.com/user-attachments/assets/8a607289-1a9a-47bd-9f1e-10142ef68842)  
 
 ## 🌍 Business Impact  
 
@@ -120,6 +122,10 @@ python CallCenterPPO.ipynb
 ```
 
 ---
+
+## 🎯 Role Relevance Statement  
+
+This project proves I can combine **SQL, Python, and Machine Learning** to deliver measurable business impact — the same skills I’ll bring to a **Data Analyst / BI Analyst role**.  
 
 ## 📌 Future Directions  
 
