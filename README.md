@@ -74,6 +74,11 @@ This project builds a **Reinforcement Learning (RL)**-based solution using **Pro
 | 90th Percentile Wait (sec)    | 140      | **111**   | ↓ 21% |
 
 ---
+## 📈 Key Visuals  
+![Wait Time Reduction](<img width="347" height="185" alt="Screenshot 2025-08-25 at 11 41 55 AM" src="https://github.com/user-attachments/assets/afeae65d-8016-4894-92dd-ece1955dad53" />
+)  
+![Agent Satisfaction Heatmap](<img width="317" height="213" alt="Screenshot 2025-08-25 at 11 44 35 AM" src="https://github.com/user-attachments/assets/8a607289-1a9a-47bd-9f1e-10142ef68842" />
+)  
 
 ## 🌍 Business Impact  
 
@@ -130,4 +135,4 @@ Special thanks to **Dr. Wathsala Karunarathne** for her guidance in reinforcemen
 ---
 
 ## 🔗 Links  
-- 💻 [Source Code (GitHub)](https://github.com/coderharry1/CallCenterPPO/blob/main/CallCenterPPO.ipynb)  
+👉 Explore the full code + training logs here: [CallCenterPPO.ipynb](https://github.com/coderharry1/CallCenterPPO/blob/main/CallCenterPPO.ipynb)
